@@ -1,0 +1,34 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 640 700" fill="none">
+<title>F/A-18 inspired blueprint</title><desc>Original stylized top-view aircraft illustration with swept wings, twin tails, and twin engines. Illustrative, not to scale.</desc>
+<defs><linearGradient id="skin" x1="180" y1="150" x2="450" y2="570" gradientUnits="userSpaceOnUse"><stop stop-color="#67e8f9" stop-opacity=".08"/><stop offset="1" stop-color="#22d3ee" stop-opacity=".015"/></linearGradient><pattern id="hatch" width="7" height="7" patternUnits="userSpaceOnUse" patternTransform="rotate(35)"><path d="M0 0V7" stroke="#67e8f9" stroke-opacity=".16"/></pattern></defs>
+<g stroke="#67e8f9" stroke-width=".7" opacity=".18"><circle cx="320" cy="345" r="228"/><circle cx="320" cy="345" r="186" stroke-dasharray="2 11"/><path d="M320 55v560M65 345h510" stroke-dasharray="5 7"/><path d="M100 140h28m-28 0v28m440-28h-28m28 0v28M100 577h28m-28 0v-28m440 28h-28m28 0v-28"/></g>
+<!-- Original illustrative Super Hornet linework; broader twin-engine aft body. -->
+<g stroke="#8de6ef" stroke-width="1.5" stroke-linejoin="round">
+<!-- Wings and their near-straight trailing edges. -->
+<path d="M271 294 152 359 152 419 268 412ZM369 294 488 359 488 419 372 412Z" fill="url(#skin)"/>
+<path d="M147 347h5v78h-5ZM488 347h5v78h-5Z"/>
+<path d="m271 309-111 59m209-59 111 59M154 406l113-13m106 0 113 13M187 341v72m266-72v72M236 315v83m168-83v83" opacity=".48"/>
+<!-- Broad horizontal stabilators. -->
+<path d="m272 434-56 66v32l68-25 15-53Zm96 0 56 66v32l-68-25-15-53Z" fill="url(#skin)"/>
+<path d="m218 512 63-29m141 29-63-29" opacity=".5"/>
+<!-- Radome, cockpit, LEX, intake shoulders and twin nacelle outer silhouette. -->
+<path d="M320 87C306 102 304 131 304 160L301 182C283 210 267 245 263 276L269 308 265 358 270 424 276 481 284 510H307L314 484H326L333 510H356L364 481 370 424 375 358 371 308 377 276C373 245 357 210 339 182L336 160C336 131 334 102 320 87Z" fill="#0b171c" fill-opacity=".9"/>
+<path d="M305 134h30M301 182l-1 111-11 44m50-155 1 111 11 44M263 276l25 13 5 44m84-57-25 13-5 44" opacity=".8"/>
+<!-- Cockpit canopy. -->
+<path d="M320 151C308 164 307 185 309 210L320 229 331 210C333 185 332 164 320 151Z" fill="#67e8f9" fill-opacity=".10"/>
+<path d="M310 175q10-11 20 0m-21 28q11 12 22 0" opacity=".6"/>
+<!-- Two rectangular intake lips and independent engine channels. -->
+<path d="m270 286 23 10-4 26-19-8Zm100 0-23 10 4 26 19-8Z" fill="url(#hatch)"/>
+<path d="M291 329 283 382 286 478H308L311 374 307 333ZM349 329l8 53-3 96H332L329 374l4-41Z" opacity=".65"/>
+<path d="M307 250h26m-25 89h24m-22 29h20M320 90v420" opacity=".23" stroke-dasharray="4 5"/>
+<!-- Distinct outward-canted twin vertical tails, emphasized for small-screen legibility. -->
+<path d="M284 384 251 448 252 478 283 455 300 404Z" fill="#12323d" stroke-width="2"/>
+<path d="M356 384 389 448 388 478 357 455 340 404Z" fill="#12323d" stroke-width="2"/>
+<path d="m283 400-23 50v13l17-15m80-48 23 50v13l-17-15" opacity=".65"/>
+<!-- Separate exhausts with a visible center gap. -->
+<path d="M283 481h27l-3 33h-21ZM330 481h27l-3 33h-21Z" fill="url(#hatch)" stroke-width="1.8"/>
+<path d="M289 486v23m6-23v23m7-23v23m34-23v23m7-23v23m7-23v23" opacity=".6"/>
+</g>
+<g stroke="#67e8f9" stroke-width=".75" opacity=".5"><path d="M147 432v130m346-130v130M147 551h346m-346-4v8m346-8v8M103 89h-34m34 435H69M80 89v435m-4-435h8m-8 435h8"/><path d="m329 193 73-55h82M372 438l72-151h73M344 509l72 65h78"/><circle cx="329" cy="193" r="3"/><circle cx="372" cy="438" r="3"/><circle cx="344" cy="509" r="3"/></g>
+<g fill="#8eacb4" font-family="monospace" font-size="9" letter-spacing="1.5"><text x="403" y="130">CANOPY</text><text x="450" y="279">TWIN TAILS</text><text x="419" y="591">TWIN ENGINE</text><text x="320" y="573" text-anchor="middle" font-size="8">PLANFORM STUDY</text><text x="320" y="646" text-anchor="middle" fill="#67e8f9" font-size="13" letter-spacing="5">F/A–18E / SUPER HORNET</text><text x="320" y="669" text-anchor="middle" font-size="7">ILLUSTRATIVE / NOT TO SCALE</text></g>
+</svg>
